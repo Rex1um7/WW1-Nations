@@ -486,8 +486,6 @@
                  
                  "movement": 2,
                  
-                 
-                 
                  "strength": 20,
                  
                  "rangedStrength": 30,
@@ -498,7 +496,7 @@
                  
                  "requiredTech": "Dynamite",
                 
-                 "uniques": ["[+100]% strength vs cities when attacking"],
+                 "uniques": ["[+100]% Strength <vs cities> <when attacking>"],
                  
                  "obsoleteTech": "Rocketry",
                  
@@ -527,7 +525,7 @@
 
                      "requiredTech": "Rocketry",
 
-                     "uniques": ["[+100]% strength vs cities when attacking"],
+                     "uniques": ["[+100]% Strength <vs cities> <when attacking>"],
 
 		     "attackSound": "artillery",
 
@@ -554,7 +552,7 @@
 
 		     "obsoleteTech": "Ballistics",
 
-                     "uniques": ["[+75]% strength when defending"],
+                     "uniques": ["[+75]% Strength <when defending>"],
 
                      "upgradesTo": "Machine Gun",
 
@@ -570,12 +568,11 @@
 
              {
 
-                 "name": "Draftee",
+                 "name": "Draftees",
 
                  "unitType": "Light Infantry", 
                 
                  "movement": 2, 
-
                 
                  "strength": 40, 
 
@@ -603,7 +600,6 @@
                 
                  "movement": 2, 
 
-                
                  "strength": 40, 
 
                  "cost": 180,
@@ -712,7 +708,7 @@
 
 	         "upgradesTo": "Raider",
 
-                 "uniques": ["[+30]% strength when defending"],
+                 "uniques": ["[+30]% Strength <when defending>"],
                      "civilopediaText": [
 			     {
 				     "text": "'Romanians! The war which for the last two years has been encircling our frontiers more and more closely has shaken the ancient foundations of Europe to their depths. It has brought the day which has been awaited for centuries by the national conscience, by the founders of the Romanian State, by those who united the principalities in the war of independence, by those responsible for the national renaissance.' -Proclamation by King Ferdinand.",
