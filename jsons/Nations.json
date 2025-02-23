@@ -462,7 +462,7 @@
 
                         "uniqueName": "Over There!",
 
-                        "uniques": ["[+3 Gold] from each Trade Routes","[+1] Sight <for [{Military} {Land}] units>","Gain a free [Statue of Liberty] [in capital]"],
+                        "uniques": ["[+3 Gold] from each Trade Route","[+1] Sight <for [{Military} {Land}] units>","Gain a free [Statue of Liberty] [in capital]"],
 
                         "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","Brazil"],
 
@@ -559,7 +559,7 @@
 
                         "uniqueName": "L'union fait la force",
 
-                        "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>","Double quantity of [Luxury resource] produced"],
+                        "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>","Double quantity of [Luxury] produced"],
 
                         "cities": ["Brussels","Antwerp","Liegé","Lille","Ypres","Ghent","Mons","Bruges","Charleroi","Waterloo","Genk","Verviers","Namur","Leuven","Silly","Ath"],
                         
@@ -854,7 +854,10 @@
 
                         "uniqueName": "Hakkō ichiu",
 
-                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+15]% Production when constructing [Water] units [in all cities]","Gain a free [Himeji Castle] [in capital]"],
+                        "uniques": ["[+20]% Strength <for [Land] units> <vs [Water] units>",
+				"[+15]% Production when constructing [Water] units [in all cities]",
+				"Gain a free [Himeji Castle] [in capital]"
+			],
 
                         "cities": ["Tokyo City","Kyoto","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
 
@@ -1183,16 +1186,17 @@
 		       "innerColor": [255, 213, 3],
 		       "uniqueName": "Shche ne vmerla Ukrainy",
 		       "uniqueText": "Gain 50 Culture upon adopting any policy.",
-		       "uniques": ["Gain [50] [Culture] <upon adopting [all]>"],
+		       "uniques": ["Gain [50] [Culture] <upon adopting [All]>"],
 		       "cities": ["Kyiv","Lviv","Vinnystia","Odesa","Rivine","Kryvyi Rih","Klintsy","Zhytomyr","Uman'","Sarata","Mykolaiv","Melitopol","Oleksandrivka","Oleksandriya"],
 	       },
+
+	// City-States
 	       { 
 	                "name": "Mecca",
 		        "style": "Middle Eastern",
 		        "style": "Middle Eastern",
 	                "adjective": ["Meccano","Hejazi"],
 	                "cityStateType": "Militaristic",
-
 		        "declaringWar": "I am the king of Hejaz, and if you want to take away that title, I will invade you!",
 	                "attacked": "So, is this round 2?",
 	                "defeated": "I knew that you would try to topple my power eventually, and yet, you succeeded.",
