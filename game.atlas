@@ -200,7 +200,7 @@ TileSets/FantasyHex/Units/Digger
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Draftee
+TileSets/FantasyHex/Units/Draftees
   rotate: false
   xy: 1241, 208
   size: 32, 28
