@@ -596,7 +596,7 @@
 
                  "uniqueTo": "The First Portuguese Republic",
 
-                 "replaces": "Draftee",
+                 "replaces": "Draftees",
                 
                  "movement": 2, 
 
@@ -693,7 +693,7 @@
 
                  "uniqueTo": "The Kingdom of Romania",
 
-                 "replaces": "Draftee",
+                 "replaces": "Draftees",
                 
                  "movement": 2, 
 
@@ -907,7 +907,7 @@
 		"name": "Fedayi",
 		"unitType": "Light Infantry",
 		"uniqueTo": "Armenian Resistance",
-		"replaces": "Draftee",
+		"replaces": "Draftees",
 		"movement": 2,
 		"strength": 40,
 		"cost": 200,
